@@ -37,13 +37,13 @@ author:
   name      : Pensacola
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : 생각의 흐름 정리
   email     : pensacola_destin@proton.me
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: skytrap/universialtrap.github.io
 repository_tree: master
 
 
@@ -196,11 +196,11 @@ defaults:
     values:
       layout: article
       sharing: true
-      license: true
-      aside:
+      license: False
+      aside: 
         toc: true
       show_edit_on_github: true
-      show_subscribe: true
+      show_subscribe: False
       pageview: true
 
 
